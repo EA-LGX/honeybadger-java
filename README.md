@@ -1,3 +1,5 @@
+System.setProperty("honeybadger.api_key", "hbp_nlhPyq8EACYCvzt4p0SO0NQTpCVAEj3sVkKe");
+
 # Honeybadger for Java
  
 [![Build Status](https://travis-ci.com/honeybadger-io/honeybadger-java.svg?branch=master)](https://travis-ci.com/honeybadger-io/honeybadger-java)
