@@ -1,4 +1,3 @@
-System.setProperty("honeybadger.api_key", "hbp_nlhPyq8EACYCvzt4p0SO0NQTpCVAEj3sVkKe");
 
 # Honeybadger for Java
  
